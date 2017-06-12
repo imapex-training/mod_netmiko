@@ -6,5 +6,5 @@ session = ConnectHandler(**device)
 
 ```
 
-[home](#table-of-contents)
+[table of contents](#table-of-contents)
 
