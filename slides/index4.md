@@ -1,12 +1,6 @@
 
-## Installing Netmiko
+## Netmiko Device types
 
-
-Installation of netmiko is accomplished via pip, preferably in a virtualenv.
-
-```
-virtualenv venv
-source venv/bin/activate
-pip install netmiko
-```
+Netmiko handles low level ssh management by customing things like login, password, and shell prompts through
+the use of device
 

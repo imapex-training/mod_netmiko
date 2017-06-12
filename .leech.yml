@@ -5,10 +5,6 @@ output_filename: index
 reveal:
   template:
   template_color: FFFFFF
-  intro:
-  intro_title: Netmiko
-  intro_author: IMAPEX
-  intro_color: 049FD9
   closing:
   closing_message: Thank you!
   closing_color: 049FD9
