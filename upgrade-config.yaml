@@ -1,0 +1,16 @@
+username: admin
+password: changeme
+
+switches:
+ - access1
+ - access2
+
+commands:
+ - show processes cpu history
+ - show processes memory | exc 0.0
+ - show mac address-table count
+ - show interface status
+ - show vpc
+ - show port-channel summary
+ - show version
+ - show environment
