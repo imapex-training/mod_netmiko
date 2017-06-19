@@ -204,7 +204,7 @@ command = 'show version'
 #### initiate ssh connection to device
 
 ```
-session = ConnectHandler(**device)
+session = netmiko.ConnectHandler(**device)
 
 ```
 
