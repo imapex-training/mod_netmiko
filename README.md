@@ -155,9 +155,11 @@ sandbox from devnet, which are available on-demand at https://devnetsandbox.cisc
 
 [item]: # (slide)
 
-#### define device variables
+#### import netmiko / define device variables
 
 ```
+import netmiko
+
 host = '10.10.20.58'
 user = 'admin'
 password = 'cisco123'

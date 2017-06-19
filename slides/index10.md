@@ -1,7 +1,9 @@
 
-#### define device variables
+#### import netmiko / define device variables
 
 ```
+import netmiko
+
 host = '10.10.20.58'
 user = 'admin'
 password = 'cisco123'
